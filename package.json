@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/graphql-request-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GraphQL client factory using graphql-request with BFF pattern and metrics",
   "type": "module",
   "main": "./dist/index.js",
