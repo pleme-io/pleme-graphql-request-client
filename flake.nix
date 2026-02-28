@@ -2,7 +2,7 @@
   description = "GraphQL client factory using graphql-request with BFF pattern and metrics";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
     dream2nix = {
       url = "github:nix-community/dream2nix";
       inputs.nixpkgs.follows = "nixpkgs";
